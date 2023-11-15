@@ -1,0 +1,470 @@
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985474.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985474.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Russian, French Presidents discuss NK conflict">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985474.html">Russian, French Presidents discuss NK
+				conflict</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985474.html">
+				<span itemprop="datePublished"  content="2019-08-20T21:09:46+04:00">21:09,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985471.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985471.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Artsakh’s President, Ambassador Andrzej Kasprzyk discuss situation on contact line">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985471.html">Artsakh’s President, Ambassador
+				Andrzej Kasprzyk discuss situation on contact line</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985471.html">
+				<span itemprop="datePublished"  content="2019-08-20T20:31:51+04:00">20:31,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985467.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985467.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Deputy PM comments on some public concerns over Amulsar mine exploitation">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985467.html">Deputy PM comments on some public
+				concerns over Amulsar mine exploitation</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985467.html">
+				<span itemprop="datePublished"  content="2019-08-20T19:40:15+04:00">19:40,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985460.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985460.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Foreign Minister of Artsakh received Ambassador Andrzej Kasprzyk">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985460.html">Foreign Minister of Artsakh received
+				Ambassador Andrzej Kasprzyk</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985460.html">
+				<span itemprop="datePublished"  content="2019-08-20T18:25:04+04:00">18:25,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985457.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985457.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Armenia records 6.5% economic growth in 2nd quarter of 2019">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985457.html">Armenia records 6.5% economic growth
+				in 2nd quarter of 2019</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985457.html">
+				<span itemprop="datePublished"  content="2019-08-20T18:06:43+04:00">18:06,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985452.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985452.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Armenia’s GDP rises by 6.8%">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985452.html">Armenia’s GDP rises by 6.8%</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985452.html">
+				<span itemprop="datePublished"  content="2019-08-20T17:50:04+04:00">17:50,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985451.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985451.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="PM Pashinyan receives IMF Director of the Middle East and Central Asia department">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985451.html">PM Pashinyan receives IMF Director of
+				the Middle East and Central Asia department</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985451.html">
+				<span itemprop="datePublished"  content="2019-08-20T17:41:40+04:00">17:41,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985448.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985448.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Central Bank of Armenia: exchange rates and prices of precious metals - 20-08-19
+">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985448.html">Central Bank of Armenia: exchange
+				rates and prices of precious metals - 20-08-19
+			</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985448.html">
+				<span itemprop="datePublished"  content="2019-08-20T17:32:03+04:00">17:32,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985447.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985447.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Asian Stocks - 20-08-19
+">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985447.html">Asian Stocks - 20-08-19
+			</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985447.html">
+				<span itemprop="datePublished"  content="2019-08-20T17:31:41+04:00">17:31,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985442.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985442.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Wage of teachers to be raised by an average of 10% ">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985442.html">Wage of teachers to be raised by an
+				average of 10% </a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985442.html">
+				<span itemprop="datePublished"  content="2019-08-20T17:03:23+04:00">17:03,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985437.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985437.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="10 people hospitalized for gastroenteritis in same region where earlier anthrax infection 
+originated">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985437.html">10 people hospitalized for
+				gastroenteritis in same region where earlier anthrax infection
+				originated</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985437.html">
+				<span itemprop="datePublished"  content="2019-08-20T16:52:32+04:00">16:52,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985429.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985429.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Police justify appropriate use of force during anti-Amulsar demonstration ">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985429.html">Police justify appropriate use of
+				force during anti-Amulsar demonstration </a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985429.html">
+				<span itemprop="datePublished"  content="2019-08-20T15:55:50+04:00">15:55,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985422.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985422.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="From casual meeting to top official job: Pashinyan appoints successful eco-tourism man as 
+advisor ">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985422.html">From casual meeting to top official
+				job: Pashinyan appoints successful eco-tourism man as
+				advisor </a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985422.html">
+				<span itemprop="datePublished"  content="2019-08-20T15:34:13+04:00">15:34,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985418.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985418.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="18 new pre-schools to be opened in 8 provinces by September ">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985418.html">18 new pre-schools to be opened in 8
+				provinces by September </a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985418.html">
+				<span itemprop="datePublished"  content="2019-08-20T15:07:51+04:00">15:07,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985404.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985404.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Ex-governor of Syunik Surik Khachatryan is in coma after heart surgery, says ex-MP Seyran 
+Saroyan">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985404.html">Ex-governor of Syunik Surik
+				Khachatryan is in coma after heart surgery, says ex-MP Seyran
+				Saroyan</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985404.html">
+				<span itemprop="datePublished"  content="2019-08-20T14:39:15+04:00">14:39,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985399.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985399.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Yerevan’s ambulance service gets 500 inappropriate calls daily">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985399.html">Yerevan’s ambulance service gets 500
+				inappropriate calls daily</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985399.html">
+				<span itemprop="datePublished"  content="2019-08-20T13:51:12+04:00">13:51,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985386.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985386.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Healthcare Minister has no evidence that Amulsar risks will impact population’s health ">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985386.html">Healthcare Minister has no evidence
+				that Amulsar risks will impact population’s health </a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985386.html">
+				<span itemprop="datePublished"  content="2019-08-20T12:27:09+04:00">12:27,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985384.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985384.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="5 villagers in Armenia diagnosed with anthrax">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985384.html">5 villagers in Armenia diagnosed with
+				anthrax</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985384.html">
+				<span itemprop="datePublished"  content="2019-08-20T12:03:54+04:00">12:03,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985382.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985382.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Gndevaz ex-mayor&#039;s son made 147 million in fraudulent land deal involving Lydian, authorities 
+say ">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985382.html">Gndevaz ex-mayor's son made 147
+				million in fraudulent land deal involving Lydian, authorities
+				say </a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985382.html">
+				<span itemprop="datePublished"  content="2019-08-20T12:00:25+04:00">12:00,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985377.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985377.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="President Sarkissian, Khaldoon Al Mubarak meet in Manchester ">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985377.html">President Sarkissian, Khaldoon Al
+				Mubarak meet in Manchester </a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985377.html">
+				<span itemprop="datePublished"  content="2019-08-20T11:44:18+04:00">11:44,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985375.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985375.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="The Power of the Volunteer: WCIT 2019 Launches the Volunteer Movement">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985375.html">The Power of the Volunteer: WCIT 2019
+				Launches the Volunteer Movement</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985375.html">
+				<span itemprop="datePublished"  content="2019-08-20T11:37:59+04:00">11:37,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985369.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985369.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Authorities to validate accuracy of allegations on corruption around Amulsar mine ">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985369.html">Authorities to validate accuracy of
+				allegations on corruption around Amulsar mine </a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985369.html">
+				<span itemprop="datePublished"  content="2019-08-20T11:06:00+04:00">11:06,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985363.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985363.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="PM presents wage raise of military personnel ">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985363.html">PM presents wage raise of military
+				personnel </a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985363.html">
+				<span itemprop="datePublished"  content="2019-08-20T10:37:27+04:00">10:37,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985359.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985359.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="OSCE to conduct monitoring at Artsakh-Azerbaijan Line of Contact ">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985359.html">OSCE to conduct monitoring at
+				Artsakh-Azerbaijan Line of Contact </a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985359.html">
+				<span itemprop="datePublished"  content="2019-08-20T10:07:46+04:00">10:07,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985357.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985357.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Emergency Situations minister personally commands firefighting operation in Yerevan 
+warehouse ">
+</a>
+		<p class="newsbycattitle" itemprop="name">
+			<img src="/assets/other/video.png" style="margin-right:4px;" align="absmiddle" alt='Videos' /><a
+				href="/eng/news/985357.html">Emergency Situations minister personally commands firefighting operation in
+				Yerevan
+				warehouse </a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985357.html">
+				<span itemprop="datePublished"  content="2019-08-20T10:06:19+04:00">10:06,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985353.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985353.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Major taxpaying companies pay 64 billion drams more in taxes ">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985353.html">Major taxpaying companies pay 64
+				billion drams more in taxes </a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985353.html">
+				<span itemprop="datePublished"  content="2019-08-20T09:49:18+04:00">09:49,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985351.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985351.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="European Stocks - 19-08-19
+">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985351.html">European Stocks - 19-08-19
+			</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985351.html">
+				<span itemprop="datePublished"  content="2019-08-20T09:14:39+04:00">09:14,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985350.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985350.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="US stocks up - 19-08-19
+">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985350.html">US stocks up - 19-08-19
+			</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985350.html">
+				<span itemprop="datePublished"  content="2019-08-20T09:13:12+04:00">09:13,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985349.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985349.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="LME. Prices for non-ferrous and minor metals - 19-08-19
+">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985349.html">LME. Prices for non-ferrous and minor
+				metals - 19-08-19
+			</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985349.html">
+				<span itemprop="datePublished"  content="2019-08-20T09:09:57+04:00">09:09,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985348.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985348.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="NYMEX: Precious Metals Prices - 19-08-19
+">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985348.html">NYMEX: Precious Metals Prices -
+				19-08-19
+			</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985348.html">
+				<span itemprop="datePublished"  content="2019-08-20T09:08:27+04:00">09:08,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985347.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985347.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Oil Prices Up - 19-08-19
+">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985347.html">Oil Prices Up - 19-08-19
+			</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985347.html">
+				<span itemprop="datePublished"  content="2019-08-20T09:07:37+04:00">09:07,  August 20. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985344.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985344.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Amuslar mine exploitation will raise Armenia&#039;s environmental standards to unprecedented level 
+– PM ">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985344.html">Amuslar mine exploitation will raise
+				Armenia's environmental standards to unprecedented level
+				– PM </a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985344.html">
+				<span itemprop="datePublished"  content="2019-08-19T21:47:39+04:00">21:47,  August 19. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985330.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985330.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Well-known Azerbaijani public figure living in Georgia admires Armenian ambassador&#039;s activities">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985330.html">Well-known Azerbaijani public figure
+				living in Georgia admires Armenian ambassador's activities</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985330.html">
+				<span itemprop="datePublished"  content="2019-08-19T19:22:19+04:00">19:22,  August 19. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985319.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985319.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Alen Simonyan presents some details from closed meeting of &#039;&#039;My step&#039;&#039; faction">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985319.html">Alen Simonyan presents some details
+				from closed meeting of ''My step'' faction</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985319.html">
+				<span itemprop="datePublished"  content="2019-08-19T17:48:49+04:00">17:48,  August 19. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985315.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985315.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Central Bank of Armenia: exchange rates and prices of precious metals - 19-08-19
+">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985315.html">Central Bank of Armenia: exchange
+				rates and prices of precious metals - 19-08-19
+			</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985315.html">
+				<span itemprop="datePublished"  content="2019-08-19T17:30:11+04:00">17:30,  August 19. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985314.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985314.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Asian Stocks - 19-08-19
+">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985314.html">Asian Stocks - 19-08-19
+			</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985314.html">
+				<span itemprop="datePublished"  content="2019-08-19T17:29:47+04:00">17:29,  August 19. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985311.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985311.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="“Perhaps reality isn’t what it seems” – PM quotes his 2018 Amulsar speech ">
+</a>
+		<p class="newsbycattitle" itemprop="name">
+			<img src="/assets/other/video.png" style="margin-right:4px;" align="absmiddle" alt='Videos' /><a
+				href="/eng/news/985311.html">“Perhaps reality isn’t what it seems” – PM quotes his 2018 Amulsar speech
+			</a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985311.html">
+				<span itemprop="datePublished"  content="2019-08-19T17:19:21+04:00">17:19,  August 19. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985309.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985309.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="Armenian Prime Minister expected to deliver statement regarding Amulsar gold mine ">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985309.html">Armenian Prime Minister expected to
+				deliver statement regarding Amulsar gold mine </a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985309.html">
+				<span itemprop="datePublished"  content="2019-08-19T17:00:38+04:00">17:00,  August 19. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985307.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985307.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="1 detained demonstrator hospitalized, Ombudsman dispatches rapid response team for 
+clarifications ">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985307.html">1 detained demonstrator hospitalized,
+				Ombudsman dispatches rapid response team for
+				clarifications </a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985307.html">
+				<span itemprop="datePublished"  content="2019-08-19T16:55:15+04:00">16:55,  August 19. 2019</span><br>
+</a>
+		</div>
+</article>
+<article class="newsbycatitem" itemscope itemtype="https://schema.org/Article"><a href="/eng/news/985306.html"
+		itemprop="url"><img src="//armenpress.am/static/news/s/2019/08/985306.jpg" width="200" height="135" style="margin-right:7px;" align="left" border="0" alt="WATCH: Chinese CCTV-7’s Armenia episode ">
+</a>
+		<p class="newsbycattitle" itemprop="name"><a href="/eng/news/985306.html">WATCH: Chinese CCTV-7’s Armenia
+				episode </a></p>
+		<div class="newsbycattext">
+			<a href="/eng/news/985306.html">
+				<span itemprop="datePublished"  content="2019-08-19T16:46:56+04:00">16:46,  August 19. 2019</span><br>
+</a>
+		</div>
+</article>
