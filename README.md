@@ -8,6 +8,6 @@ Coded in:
 
 | Task | Time spent computing |  
 | ---- | -------------------- |  
-| Scraping urls of articles (3653 + 5600 pages) | 1 + 1 hours |  
-| Scraping content of articles (129200 + 219401 articles) | 5.5 + 8.3 hours |  
-| Getting ChatGPT sentiment analysis (11785 + 16263 articles) | 6 + 8 hours (Will depend on your rate limits) |  
+| Scraping urls of articles (3653 + 5600 + 5000 pages) | 1 + 1 + 1 hours |  
+| Scraping content of articles (129200 + 219401 + 84343 articles) | 5.5 + 8.3 + 2.9 hours |  
+| Getting ChatGPT sentiment analysis (11785 + 16263 + 9337 articles) | 6 + 8 + 5 hours (Will depend on your rate limits) |  
