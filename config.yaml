@@ -3,3 +3,12 @@ redis:
   port: 5211
 sqlite:
   path: scraping.db
+sites:
+  newsam:
+    id: integer primary key
+    headline: varchar(255)
+    time: timestamp
+    content: text
+    feedback: text
+    region: varchar(255)
+    theme: varchar(128)
