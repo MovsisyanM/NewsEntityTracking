@@ -16,9 +16,10 @@ import yaml
 
 # region init
 
-config_path = "config.yaml"
+config_path = "../config.yaml"
 
-config = yaml.load(config_path)
+with open(config_path, "r") as config_file:
+    config = yaml.load(config_file, Loader=yaml.CLoader)
 
 db_options = {
     "sqlite": lambda config: sqlite3.connect(**config["sqlite"])
@@ -58,8 +59,20 @@ def create_article_table_sqlite(
 
     db.commit()
 
+
+def select_max_date_sqlite(db: sqlite3.Connection):
+    return 
+
 # endregion init
 
+rd = cache_options[config["chosen_cache"]](config)
+db = db_options[config["chosen_db"]](config)  
+
+resp = db.execute("select max(time) from article")
+
+print(resp)
+
+assert 1 == 0, "Done"
 
 # 1. Date sequence generator
 

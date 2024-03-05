@@ -2,7 +2,7 @@ redis:
   host: localhost
   port: 5211
 sqlite:
-  path: scraping.db
+  database: ../scraping.db
 sites:
   newsam:
     id: integer primary key
@@ -12,3 +12,5 @@ sites:
     feedback: text
     region: varchar(255)
     theme: varchar(128)
+chosen_cache: redis
+chosen_db: sqlite
