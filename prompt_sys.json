@@ -1,0 +1,11 @@
+{
+    "role": "system",
+    "content": "Read the article, list
+    named entities discussed in it, 
+    choose a sentiment between positive,
+    neutral, and negative for each
+    listed entity separately. Provide
+    your answer in a json format with
+    keys 'name', 'sentiment',
+    'explanation'."
+}

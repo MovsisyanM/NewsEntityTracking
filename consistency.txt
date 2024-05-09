@@ -1,0 +1,19 @@
+In:
+def strpdict(string: str) -> dict:
+    try:
+        return ast.literal_eval(string)
+    except Exception as e:
+        print(e)
+
+df_feedback.feedback.apply(strpdict)
+
+Out:
+unexpected indent (<unknown>, line 20)
+'{' was never closed (<unknown>, line 33)
+'{' was never closed (<unknown>, line 18)
+'{' was never closed (<unknown>, line 18)
+'[' was never closed (<unknown>, line 2)
+'{' was never closed (<unknown>, line 28)
+'{' was never closed (<unknown>, line 8)
+'{' was never closed (<unknown>, line 13)
+'{' was never closed (<unknown>, line 13)

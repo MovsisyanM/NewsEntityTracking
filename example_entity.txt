@@ -1,0 +1,20 @@
+'serzh sargsyan': {
+    'positive': 320,
+    'negative': 85,
+    'neutral': 691,
+    'connections': [
+        {
+            ...,
+            'russia': 182,
+            'armenia': 295,
+            ...
+        },
+        {
+            ...,
+            'azerbaijan': 72,
+            'turkey': 33,
+            ...
+        },
+        {...}
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "role": "user",
+    "content": "Title: " + content +
+    "\nContent: " + article
+}
